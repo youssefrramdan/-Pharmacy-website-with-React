@@ -42,10 +42,10 @@ const MyNav = () => {
             <Nav.Link as={Link} to="/products" className="text-primary px-3 py-2 rounded hover:bg-light">
               Products
             </Nav.Link>
-            <Nav.Link as={Link} to="/services" className="text-primary px-3 py-2 rounded hover:bg-light">
+            <Nav.Link as={Link} to="/" className="text-primary px-3 py-2 rounded hover:bg-light">
               Services
             </Nav.Link>
-            <Nav.Link as={Link} to="/about" className="text-primary px-3 py-2 rounded hover:bg-light">
+            <Nav.Link as={Link} to="/" className="text-primary px-3 py-2 rounded hover:bg-light">
               About
             </Nav.Link>
           </Nav>
