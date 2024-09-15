@@ -1,7 +1,6 @@
-/* MyNav.css */
 
 .navbar {
-  background-color: #f8f9fa; /* لون خلفية navbar */
+  background-color: #f8f9fa; 
 }
 
 .navbar-brand img {
@@ -10,23 +9,23 @@
 }
 
 .navbar-nav .nav-link {
-  color: white; /* لون النص للروابط */
+  color: white; 
 }
 
 .navbar-nav .nav-link:hover {
-  background-color: #e9ecef; /* لون الخلفية عند التمرير */
+  background-color: #e9ecef; 
 }
 
 .navbar-nav .btn {
-  background-color: #0d6efd; /* لون خلفية الزر */
-  border: none; /* إزالة الحدود */
+  background-color: #0d6efd;
+  border: none; 
 }
 
 .navbar-nav .btn:hover {
-  background-color: #0056b3; /* لون الخلفية عند التمرير */
+  background-color: #0056b3; 
 }
 
 .navbar-nav .btn .btn-primary {
-  color: #ffffff; /* لون النص */
-  font-weight: 500; /* وزن النص */
+  color: #ffffff; 
+  font-weight: 500; 
 }

@@ -23,7 +23,7 @@ const LoginRegister = () => {
     if (user) {
       localStorage.setItem("user", JSON.stringify(user));
       alert(`Welcome ${user.name}!`);
-      navigate("/"); // Redirect to home
+      navigate("/"); 
     } else {
       alert("Invalid credentials");
     }

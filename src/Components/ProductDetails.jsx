@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import { Button, Card } from "react-bootstrap";
 import axios from "axios";
-import "./ProductsDetails.css"; // تأكد من تضمين ملف CSS
+import "./ProductsDetails.css"; 
 
 const ProductDetails = () => {
   const { id } = useParams();

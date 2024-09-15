@@ -77,7 +77,7 @@ export default function Home() {
           <div className="row justify-content-center align-items-center">
             <div className="col-lg-6 mb-4 mb-lg-0 order-lg-2">
               <img
-                src={img6}  // Replace with your image import
+                src={img6}
                 className="img-fluid rounded shadow"
                 alt="Our Services"
               />

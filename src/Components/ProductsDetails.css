@@ -1,12 +1,11 @@
-/* ProductDetails.css */
 
 .product-card {
-    max-width: 400px; /* تحديد عرض أقصى أصغر للـ Card */
-    margin: auto; /* توسيط الـ Card */
+    max-width: 400px; 
+    margin: auto;
   }
   
   .product-image {
-    height: 300px; /* تعيين ارتفاع الصورة أصغر */
-    object-fit: cover; /* ضبط الصورة لتناسب الحاوية */
+    height: 300px; 
+    object-fit: cover; 
   }
   

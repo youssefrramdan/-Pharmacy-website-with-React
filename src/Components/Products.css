@@ -1,24 +1,22 @@
-/* src/styles.css */
 
 .btn-edit {
-  background-color: #ffc107; /* لون أصفر */
+  background-color: #ffc107; 
   border: none;
 }
 
 .btn-edit:hover {
-  background-color: #e0a800; /* لون أصفر داكن */
+  background-color: #e0a800; 
 }
 
 .btn-view {
-  background-color: #28a745; /* لون أخضر */
+  background-color: #28a745;
   border: none;
 }
 
 .btn-view:hover {
-  background-color: #218838; /* لون أخضر داكن */
+  background-color: #218838; 
 }
 
-/* التعديلات السابقة للـ card */
 .product-card {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
